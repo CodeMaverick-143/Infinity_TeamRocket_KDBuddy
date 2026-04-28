@@ -49,6 +49,11 @@ Our analysis of over 50,000 European ETFs and Mutual Funds reveals a distinct na
 
 ---
 
+## Interactive Notebook
+- [Google Colab Notebook (EDA & Data Processing)](https://colab.research.google.com/drive/1ngnUGyQE98LnpO2rtiEPy0W2jySMyYk4?usp=sharing)
+
+---
+
 ## Folder Structure
 ```text
 .
